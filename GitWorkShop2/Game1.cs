@@ -8,7 +8,7 @@ public class Game1 : Game
 {
     private GraphicsDeviceManager _graphics;
     private SpriteBatch _spriteBatch;
-
+    private string mytip = "Tippy";
     public Game1()
     {
         _graphics = new GraphicsDeviceManager(this);
