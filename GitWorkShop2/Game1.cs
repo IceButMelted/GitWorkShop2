@@ -8,6 +8,7 @@ public class Game1 : Game
 {
     private GraphicsDeviceManager _graphics;
     private SpriteBatch _spriteBatch;
+    private string Mykheang = "ai kheang";
 
     private string myPhuree = "Phuree!";
     public Game1()
