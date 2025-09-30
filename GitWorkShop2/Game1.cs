@@ -9,6 +9,7 @@ public class Game1 : Game
 {
     private GraphicsDeviceManager _graphics;
     private SpriteBatch _spriteBatch;
+    protected string Mylong = "Long";
     private string Mykheang = "ai kheang";
     private string _myLu = "Luu";
 
